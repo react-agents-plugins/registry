@@ -16,5 +16,16 @@
   },
   "peerDependencies": {
     "whatwg-url": "7.1.0"
+  },
+  "pluginType": "elizaos:plugin:1.0.0",
+  "pluginParameters": {
+    "type": "object",
+    "required": ["FAL_API_KEY"],
+    "properties": {
+      "FAL_API_KEY": {
+        "type": "string",
+        "description": "fal.ai API key"
+      }
+    }
   }
 }
