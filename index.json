@@ -1,4 +1,13 @@
 {
+  "@elizaos/client-auto": "./packages/client-auto",
+  "@elizaos/client-direct": "./packages/client-direct",
+  "@elizaos/client-discord": "./packages/client-discord",
+  "@elizaos/client-farcaster": "./packages/client-farcaster",
+  "@elizaos/client-github": "./packages/client-github",
+  "@elizaos/client-lens": "./packages/client-lens",
+  "@elizaos/client-slack": "./packages/client-slack",
+  "@elizaos/client-telegram": "./packages/client-telegram",
+  "@elizaos/client-twitter": "./packages/client-twitter",
   "@elizaos/plugin-0g": "./packages/plugin-0g",
   "@elizaos/plugin-3d-generation": "./packages/plugin-3d-generation",
   "@elizaos/plugin-abstract": "./packages/plugin-abstract",
