@@ -14,7 +14,7 @@
   "@elizaos/client-telegram": "./packages/client-telegram",
   "@elizaos/client-twitter": "./packages/client-twitter",
   "@elizaos/plugin-0g": "./packages/plugin-0g",
-  "@elizaos/plugin-3d-generation": "./packages/plugin-3d-generation",
+  "@elizaos/plugin-3d-generation": "github:elizaos-plugins/plugin-3d-generation",
   "@elizaos/plugin-abstract": "./packages/plugin-abstract",
   "@elizaos/plugin-aptos": "./packages/plugin-aptos",
   "@elizaos/plugin-avalanche": "./packages/plugin-avalanche",
