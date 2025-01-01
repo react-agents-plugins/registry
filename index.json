@@ -1,4 +1,9 @@
 {
+  "@elizaos/adapter-postgres": "./packages/adapter-postgres",
+  "@elizaos/adapter-redis": "./packages/adapter-redis",
+  "@elizaos/adapter-sqlite": "./packages/adapter-sqlite",
+  "@elizaos/adapter-sqljs": "./packages/adapter-sqljs",
+  "@elizaos/adapter-supabase": "./packages/adapter-supabase",
   "@elizaos/client-auto": "./packages/client-auto",
   "@elizaos/client-direct": "./packages/client-direct",
   "@elizaos/client-discord": "./packages/client-discord",
