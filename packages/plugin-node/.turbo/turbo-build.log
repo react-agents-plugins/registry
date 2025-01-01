@@ -1,0 +1,26 @@
+
+
+> @ai16z/plugin-node@0.1.5-alpha.5 build /Users/a/eliza/packages/plugin-node
+> tsup --format esm --dts
+
+[34mCLI[39m Building entry: src/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.3.5
+[34mCLI[39m Using tsup config: /Users/a/eliza/packages/plugin-node/tsup.config.ts
+[34mCLI[39m Target: esnext
+[34mCLI[39m Cleaning output folder
+[34mESM[39m Build start
+[32mESM[39m [1mdist/index.js                      [22m[32m163.05 KB[39m
+[32mESM[39m [1mdist/node-ponyfill-6CWO4LLV.js     [22m[32m183.00 B[39m
+[32mESM[39m [1mdist/chunk-PLDDJCW6.js             [22m[32m2.10 KB[39m
+[32mESM[39m [1mdist/wrapper-IANJ3KLP.js           [22m[32m130.02 KB[39m
+[32mESM[39m [1mdist/chunk-BR27BNBP.js             [22m[32m582.49 KB[39m
+[32mESM[39m [1mdist/node-ponyfill-6CWO4LLV.js.map [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-PLDDJCW6.js.map         [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/index.js.map                  [22m[32m293.26 KB[39m
+[32mESM[39m [1mdist/wrapper-IANJ3KLP.js.map       [22m[32m209.83 KB[39m
+[32mESM[39m [1mdist/chunk-BR27BNBP.js.map         [22m[32m378.87 KB[39m
+[32mESM[39m ⚡️ Build success in 180ms
+DTS Build start
+DTS ⚡️ Build success in 3701ms
+DTS dist/index.d.ts 7.10 KB
