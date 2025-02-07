@@ -42,6 +42,7 @@
   "@elizaos/plugin-image-generation": "github:elizaos-plugins/plugin-image-generation",
   "@elizaos/plugin-intiface": "github:elizaos-plugins/plugin-intiface",
   "@elizaos/plugin-irys": "github:elizaos-plugins/plugin-irys",
+  "@elizaos/plugin-kaia": "github:elizaos-plugins/plugin-kaia",
   "@elizaos/plugin-lensNetwork": "github:elizaos-plugins/plugin-lensNetwork",
   "@elizaos/plugin-letzai": "github:elizaos-plugins/plugin-letzai",
   "@elizaos/plugin-massa": "github:elizaos-plugins/plugin-massa",
