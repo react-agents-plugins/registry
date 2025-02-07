@@ -69,6 +69,7 @@
   "@elizaos-plugins/plugin-tee-marlin": "github:elizaos-plugins/plugin-tee-marlin",
   "@elizaos-plugins/plugin-thirdweb": "github:elizaos-plugins/plugin-thirdweb",
   "@elizaos-plugins/plugin-ton": "github:elizaos-plugins/plugin-ton",
+  "@elizaos-plugins/plugin-ton-connect": "github:allen-hsu/plugin-ton-connect",
   "@elizaos-plugins/plugin-trustdb": "github:elizaos-plugins/plugin-trustdb",
   "@elizaos-plugins/plugin-tts": "github:elizaos-plugins/plugin-tts",
   "@elizaos-plugins/plugin-twitter": "github:elizaos-plugins/plugin-twitter",
