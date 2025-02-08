@@ -121,7 +121,8 @@ Eliza uses a unified plugin architecture where everything is a plugin - includin
    - Registers the plugin's components (clients, adapters, actions, etc.)
 
 7. **Client and Adapter Implementation**: When implementing clients or adapters:
-   ```typescript
+
+```typescript
    // Client example
    const discordPlugin: Plugin = {
      name: "discord",
@@ -143,7 +144,7 @@ Eliza uses a unified plugin architecture where everything is a plugin - includin
     services: [PdfService],
     actions: [],
   };
-   ```
+```
 
 ### Environment Variables and Secrets
 
