@@ -27,6 +27,7 @@
   "@elizaos-plugins/plugin-cosmos": "github:elizaos-plugins/plugin-cosmos",
   "@elizaos-plugins/plugin-cronoszkevm": "github:elizaos-plugins/plugin-cronoszkevm",
   "@elizaos-plugins/plugin-depin": "github:elizaos-plugins/plugin-depin",
+  "@elizaos-plugins/plugin-di": "github:elizaos-plugins/plugin-di",
   "@elizaos-plugins/plugin-echochambers": "github:elizaos-plugins/plugin-echochambers",
   "@elizaos-plugins/plugin-evm": "github:elizaos-plugins/plugin-evm",
   "@elizaos-plugins/plugin-ferePro": "github:elizaos-plugins/plugin-ferePro",
