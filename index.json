@@ -68,7 +68,7 @@
   "@elizaos-plugins/plugin-starknet": "github:elizaos-plugins/plugin-starknet",
   "@elizaos-plugins/plugin-story": "github:elizaos-plugins/plugin-story",
   "@elizaos-plugins/plugin-sui": "github:elizaos-plugins/plugin-sui",
-  "@elizaos-plugins/plugin-taiko": "github:Siddesh7/plugin-taiko"
+  "@elizaos-plugins/plugin-taiko": "github:Siddesh7/plugin-taiko",
   "@elizaos-plugins/plugin-tee": "github:elizaos-plugins/plugin-tee",
   "@elizaos-plugins/plugin-tee-log": "github:elizaos-plugins/plugin-tee-log",
   "@elizaos-plugins/plugin-tee-marlin": "github:elizaos-plugins/plugin-tee-marlin",
