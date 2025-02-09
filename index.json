@@ -51,6 +51,7 @@
   "@elizaos-plugins/plugin-nft-generation": "github:elizaos-plugins/plugin-nft-generation",
   "@elizaos-plugins/plugin-node": "github:elizaos-plugins/plugin-node",
   "@elizaos-plugins/plugin-obsidian": "github:elizaos-plugins/plugin-obsidian",
+  "@elizaos-plugins/plugin-okx": "github:elizaos-plugins/plugin-okx",
   "@elizaos-plugins/plugin-opacity": "github:elizaos-plugins/plugin-opacity",
   "@elizaos-plugins/plugin-open-weather": "github:elizaos-plugins/plugin-open-weather",
   "@elizaos-plugins/plugin-primus": "github:elizaos-plugins/plugin-primus",
