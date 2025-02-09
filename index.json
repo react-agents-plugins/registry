@@ -37,6 +37,7 @@
   "@elizaos-plugins/plugin-gitbook": "github:elizaos-plugins/plugin-gitbook",
   "@elizaos-plugins/plugin-goat": "github:elizaos-plugins/plugin-goat",
   "@elizaos-plugins/plugin-goplus": "github:elizaos-plugins/plugin-goplus",
+  "@elizaos-plugins/plugin-kaia": "github:elizaos-plugins/plugin-kaia",
   "@elizaos-plugins/plugin-hyperliquid": "github:elizaos-plugins/plugin-hyperliquid",
   "@elizaos-plugins/plugin-icp": "github:elizaos-plugins/plugin-icp",
   "@elizaos-plugins/plugin-image-generation": "github:elizaos-plugins/plugin-image-generation",
