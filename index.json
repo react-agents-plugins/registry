@@ -32,6 +32,7 @@
   "@elizaos-plugins/plugin-di": "github:elizaos-plugins/plugin-di",
   "@elizaos-plugins/plugin-echochambers": "github:elizaos-plugins/plugin-echochambers",
   "@elizaos-plugins/plugin-evm": "github:elizaos-plugins/plugin-evm",
+  "@elizaos-plugins/plugin-edwin": "github:elizaos-plugins/plugin-edwin",
   "@elizaos-plugins/plugin-ferePro": "github:elizaos-plugins/plugin-ferePro",
   "@elizaos-plugins/plugin-flow": "github:elizaos-plugins/plugin-flow",
   "@elizaos-plugins/plugin-fuel": "github:elizaos-plugins/plugin-fuel",
