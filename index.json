@@ -79,6 +79,7 @@
   "@elizaos-plugins/plugin-trustdb": "github:elizaos-plugins/plugin-trustdb",
   "@elizaos-plugins/plugin-tts": "github:elizaos-plugins/plugin-tts",
   "@elizaos-plugins/plugin-twitter": "github:elizaos-plugins/plugin-twitter",
+  "@elizaos-plugins/plugin-vana": "github:elizaos-plugins/plugin-vana",
   "@elizaos-plugins/plugin-video-generation": "github:elizaos-plugins/plugin-video-generation",
   "@elizaos-plugins/plugin-web-search": "github:elizaos-plugins/plugin-web-search",
   "@elizaos-plugins/plugin-whatsapp": "github:elizaos-plugins/plugin-whatsapp",
