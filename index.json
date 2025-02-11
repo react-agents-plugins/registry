@@ -5,6 +5,7 @@
   "@elizaos-plugins/client-github": "github:elizaos-plugins/client-github",
   "@elizaos-plugins/client-lens": "github:elizaos-plugins/client-lens",
   "@elizaos-plugins/client-slack": "github:elizaos-plugins/client-slack",
+  "@elizaos-plugins/client-streamr": "github.com:streamr-dev/client-streamr",
   "@elizaos-plugins/client-telegram": "github:elizaos-plugins/client-telegram",
   "@elizaos-plugins/client-twitter": "github:elizaos-plugins/client-twitter",
   "@elizaos-plugins/client-xmtp": "github:ephemeraHQ/client-xmtp",
