@@ -52,7 +52,7 @@
   "@elizaos-plugins/plugin-massa": "github:elizaos-plugins/plugin-massa",
   "@elizaos-plugins/plugin-movement": "github:elizaos-plugins/plugin-movement",
   "@elizaos-plugins/plugin-multiversx": "github:elizaos-plugins/plugin-multiversx",
-  "@elizaos-plugins/plugin-mina-protocol": "github:elizaos-plugins/plugin-mina",
+  "@elizaos-plugins/plugin-mina-protocol": "github.com/aiqubits/plugin-mina",
   "@elizaos-plugins/plugin-mina": "github:lispking/plugin-mina",
   "@elizaos-plugins/plugin-navi": "github:lispking/plugin-navi",
   "@elizaos-plugins/plugin-near": "github:elizaos-plugins/plugin-near",
