@@ -1,4 +1,11 @@
 {
+  "@elizaos-plugins/adapter-mongodb": "github:elizaos-plugins/adapter-mongodb",
+  "@elizaos-plugins/adapter-postgres": "github:elizaos-plugins/adapter-postgres",
+  "@elizaos-plugins/adapter-pglite": "github:elizaos-plugins/adapter-pglite",
+  "@elizaos-plugins/adapter-qdrant": "github:elizaos-plugins/adapter-qdrant",
+  "@elizaos-plugins/adapter-sqljs": "github:elizaos-plugins/adapter-sqljs",
+  "@elizaos-plugins/adapter-sqlite": "github:elizaos-plugins/adapter-sqlite",
+  "@elizaos-plugins/adapter-supabase": "github:elizaos-plugins/adapter-supabase",
   "@elizaos-plugins/client-auto": "github:elizaos-plugins/client-auto",
   "@elizaos-plugins/client-discord": "github:elizaos-plugins/client-discord",
   "@elizaos-plugins/client-farcaster": "github:elizaos-plugins/client-farcaster",
