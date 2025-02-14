@@ -9,6 +9,7 @@
   "@elizaos-plugins/client-telegram": "github:elizaos-plugins/client-telegram",
   "@elizaos-plugins/client-twitter": "github:elizaos-plugins/client-twitter",
   "@elizaos-plugins/client-xmtp": "github:ephemeraHQ/client-xmtp",
+  "@elizaos-plugins/client-tako": "github:takoprotocol/client-tako",
   "@elizaos-plugins/plugin-0g": "github:elizaos-plugins/plugin-0g",
   "@elizaos-plugins/plugin-3d-generation": "github:elizaos-plugins/plugin-3d-generation",
   "@elizaos-plugins/plugin-abstract": "github:elizaos-plugins/plugin-abstract",
