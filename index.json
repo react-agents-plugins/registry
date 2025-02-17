@@ -1,5 +1,4 @@
 {
-  "official": {
     "@elizaos-plugins/adapter-mongodb": "github:elizaos-plugins/adapter-mongodb",
     "@elizaos-plugins/adapter-postgres": "github:elizaos-plugins/adapter-postgres",
     "@elizaos-plugins/adapter-pglite": "github:elizaos-plugins/adapter-pglite",
@@ -91,24 +90,4 @@
     "@elizaos-plugins/plugin-zerion": "github:elizaos-plugins/plugin-zerion",
     "@elizaos-plugins/plugin-zksync-era": "github:elizaos-plugins/plugin-zksync-era",
     "@elizaos-plugins/plugin-omniflix": "github:elizaos-plugins/plugin-omniflix"
-  },
-  "community": {
-    "@elizaos-plugins/plugin-vara": "github:btwiuse/elizaos-plugin-vara",
-    "@elizaos-plugins/plugin-rooch": "github:rooch-network/eliza-plugin-rooch",
-    "@elizaos-plugins/plugin-taiko": "github:Siddesh7/plugin-taiko",
-    "@elizaos-plugins/plugin-som": "github:cloudre01/plugin-som",
-    "@elizaos-plugins/plugin-sqd": "github:subsquid-labs/plugin-sqd",
-    "@elizaos-plugins/plugin-safe-validator": "github.com/matilingutierrez/plugin-safe-validator",
-    "@elizaos-plugins/plugin-orderly": "github:OrderlyNetwork/plugin-orderly",
-    "@elizaos-plugins/plugin-mina-protocol": "github:aiqubits/plugin-mina",
-    "@elizaos-plugins/plugin-mina": "github:lispking/plugin-mina",
-    "@elizaos-plugins/plugin-navi": "github:lispking/plugin-navi",
-    "@elizaos-plugins/plugin-messari-ai-toolkit": "github:messari/plugin-messari-ai-toolkit",
-    "@elizaos-plugins/plugin-gigacrew": "github:NethermindEth/plugin-gigacrew",
-    "@elizaos-plugins/plugin-elfa-ai": "github:elfa-ai/plugin-elfa-ai",
-    "@elizaos-plugins/plugin-berachain": "github:dev-holdstation/plugin-berachain",
-    "@elizaos-plugins/client-xmtp": "github:ephemeraHQ/client-xmtp",
-    "@elizaos-plugins/client-tako": "github:takoprotocol/client-tako",
-    "@elizaos-plugins/client-streamr": "github:streamr-dev/client-streamr"
-  }
 }
