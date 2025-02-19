@@ -93,5 +93,6 @@
     "@elizaos-plugins/plugin-omniflix": "github:elizaos-plugins/plugin-omniflix",
     "@elizaos-plugins/plugin-ccxt": "github:pranavjadhav1363/plugin-ccxt",
     "@elizaos-plugins/plugin-firecrawl": "github:tobySolutions/plugin-firecrawl",
-    "@elizaos-plugins/plugin-ATTPs": "github.com:APRO-com/plugin-ATTPs.git"
+    "@elizaos-plugins/plugin-ATTPs": "github.com:APRO-com/plugin-ATTPs.git",
+    "@elizaos-plugins/plugin-viction": "github:BuildOnViction/plugin-viction"
 }
