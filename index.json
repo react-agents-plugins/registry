@@ -94,5 +94,6 @@
     "@elizaos-plugins/plugin-ccxt": "github:pranavjadhav1363/plugin-ccxt",
     "@elizaos-plugins/plugin-firecrawl": "github:tobySolutions/plugin-firecrawl",
     "@elizaos-plugins/plugin-ATTPs": "github.com:APRO-com/plugin-ATTPs.git",
-    "@elizaos-plugins/plugin-nkn": "github:nknorg/eliza-plugin-nkn"
+    "@elizaos-plugins/plugin-nkn": "github:nknorg/eliza-plugin-nkn",
+    "@elizaos-plugins/plugin-viction": "github:BuildOnViction/plugin-viction"
 }
