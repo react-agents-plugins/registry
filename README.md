@@ -222,6 +222,44 @@ The `getSetting` method follows this precedence:
 3. **Error Handling**: Gracefully handle missing or invalid configuration
 4. **Type Safety**: Use TypeScript for better developer experience
 5. **Testing**: Include tests for core functionality
+6. **GitHub Topics**: Add `elizaos-plugins` as a topic to your repository along with relevant tags like `ai`, `crypto`, `social`, etc. to help with discovery and categorization
+
+### Pull Request Requirements
+
+When submitting a plugin to the ElizaOS Registry, your PR must include:
+
+1. **Working Demo Evidence:**
+   - Screenshots or video demonstrations of the plugin working with ElizaOS
+   - Test results showing successful integration
+   - Example agent configuration using your plugin
+   - Documentation of any specific setup requirements
+
+2. **Integration Testing:**
+   - Proof of successful dynamic loading with ElizaOS
+   - Test cases covering main functionality
+   - Error handling demonstrations
+   - Performance metrics (if applicable)
+
+3. **Configuration Examples:**
+   ```json
+   {
+     "name": "MyAgent",
+     "plugins": ["@elizaos/your-plugin"],
+     "settings": {
+       "your-plugin": {
+         // Your plugin's configuration
+       }
+     }
+   }
+   ```
+
+4. **Quality Checklist:**
+   - [ ] Plugin follows the standard structure
+   - [ ] All required branding assets are included
+   - [ ] Documentation is complete and clear
+   - [ ] GitHub topics are properly set
+   - [ ] Tests are passing
+   - [ ] Demo evidence is provided
 
 Visit the [Plugin Development Guide](https://github.com/elizaos-plugins/plugin-image) for detailed information on creating new plugins.
 
