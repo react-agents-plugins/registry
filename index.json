@@ -44,6 +44,7 @@
     "@elizaos-plugins/plugin-flow": "github:elizaos-plugins/plugin-flow",
     "@elizaos-plugins/plugin-fuel": "github:elizaos-plugins/plugin-fuel",
     "@elizaos-plugins/plugin-genlayer": "github:elizaos-plugins/plugin-genlayer",
+    "@elizaos-plugins/plugin-gigbot": "github:PaymagicXYZ/plugin-gigbot",
     "@elizaos-plugins/plugin-giphy": "github:elizaos-plugins/plugin-giphy",
     "@elizaos-plugins/plugin-gitbook": "github:elizaos-plugins/plugin-gitbook",
     "@elizaos-plugins/plugin-goat": "github:elizaos-plugins/plugin-goat",
