@@ -93,12 +93,12 @@
     "@elizaos-plugins/plugin-zksync-era": "github:elizaos-plugins/plugin-zksync-era",
     "@elizaos-plugins/plugin-omniflix": "github:elizaos-plugins/plugin-omniflix",
     "@elizaos-plugins/plugin-ccxt": "github:pranavjadhav1363/plugin-ccxt",
-    "@elizaos-plugins/plugin-trustgo": "github:TrustaLabs/plugin-trustgo",
+    "@toddli/plugin-trustgo": "github:TrustaLabs/plugin-trustgo",
     "@elizaos-plugins/plugin-firecrawl": "github:tobySolutions/plugin-firecrawl",
     "@elizaos-plugins/plugin-ATTPs": "github:APRO-com/plugin-ATTPs",
     "@elizaos-plugins/plugin-youtube-to-text": "github:wellaios/plugin-youtube-to-text",
     "@elizaos-plugins/plugin-nkn": "github:nknorg/eliza-plugin-nkn",
     "@elizaos-plugins/plugin-viction": "github:BuildOnViction/plugin-viction",
-    "@elizaos-plugins/plugin-grix": "github:grixprotocol/plugin-grix"
-
+    "@elizaos-plugins/plugin-grix": "github:grixprotocol/plugin-grix",
+    "@elizaos-plugins/plugin-multichain": "github:near-agent/elizaos-plugin-multichain"
 }
