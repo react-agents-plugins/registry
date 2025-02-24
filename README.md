@@ -200,7 +200,7 @@ The `getSetting` method follows this precedence:
 
 ### Creating a New Plugin
 
-1. Use the [plugin template](https://github.com/elizaos-plugins/plugin-template) as a starting point
+1. Use any of the already mentioned list plugins, such as [web-search](https://github.com/elizaos-plugins/plugin-web-search) as a starting point
 2. Implement the Plugin interface:
    ```typescript
    interface Plugin {
@@ -261,7 +261,7 @@ When submitting a plugin to the ElizaOS Registry, your PR must include:
    - [ ] Tests are passing
    - [ ] Demo evidence is provided
 
-Visit the [Plugin Development Guide](https://github.com/elizaos-plugins/plugin-image) for detailed information on creating new plugins.
+Visit the [Elizaos Plugin Development Guide]([https://github.com/elizaos-plugins/plugin-image](https://github.com/elizaOS/eliza/blob/main/docs/docs/packages/plugins.md) for detailed information on creating new plugins.
 
 ### Plugin Branding and Images
 
@@ -282,32 +282,9 @@ To maintain a consistent and professional appearance across the ElizaOS ecosyste
    │       ├── screenshot1.png
    │       └── screenshot2.png
    ```
-
-3. **README Integration:**
-   ```markdown
-   # My Amazing Plugin
    
-   <div align="center">
-     <img src="assets/banner.png" alt="Plugin Banner" width="100%">
-   </div>
-   
-   ## Screenshots
-   
-   <div align="center">
-     <img src="assets/screenshots/screenshot1.png" alt="Feature Demo" width="80%">
-   </div>
-   ```
-
-4. **Image Guidelines:**
+3. **Image Guidelines:**
    - Use clear, high-resolution images
    - Keep file sizes optimized (< 500KB for logos, < 1MB for banners)
-   - Follow the [ElizaOS Brand Guidelines](https://github.com/elizaos-plugins/guidelines/brand.md)
+   - [Image example](https://github.com/elizaos-plugins/client-twitter/blob/main/images/banner.jpg)
    - Include alt text for accessibility
-
-Example banner and logo placement:
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/elizaos-plugins/registry/main/assets/plugin-banner-example.png" alt="Plugin Banner Example" width="100%">
-</div>
-
-> 💡 **Pro Tip**: Use the [ElizaOS Plugin Banner Generator](https://github.com/elizaos-plugins/tools/banner-generator) to create beautiful, consistent banners for your plugins.
