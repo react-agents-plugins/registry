@@ -96,6 +96,7 @@
     "@elizaos-plugins/plugin-trustdb": "github:elizaos-plugins/plugin-trustdb",
     "@elizaos-plugins/plugin-trustgo": "github:TrustaLabs/plugin-trustgo",
     "@elizaos-plugins/plugin-tts": "github:elizaos-plugins/plugin-tts",
+    "@elizaos-plugins/plugin-twilio": "github:boolkeys/plugin-twilio",
     "@elizaos-plugins/plugin-twitter": "github:elizaos-plugins/plugin-twitter",
     "@elizaos-plugins/plugin-viction": "github:BuildOnViction/plugin-viction",
     "@elizaos-plugins/plugin-video-generation": "github:elizaos-plugins/plugin-video-generation",
