@@ -102,5 +102,6 @@
     "@elizaos-plugins/plugin-youtube-to-text": "github:wellaios/plugin-youtube-to-text",
     "@elizaos-plugins/plugin-nkn": "github:nknorg/eliza-plugin-nkn",
     "@elizaos-plugins/plugin-viction": "github:BuildOnViction/plugin-viction",
+    "@elizaos-plugins/plugin-okx": "github:elizaos-plugins/plugin-okx",
     "@elizaos-plugins/plugin-zapper": "github:ben-dh3/plugin-zapper"
 }
