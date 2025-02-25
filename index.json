@@ -73,6 +73,7 @@
     "@elizaos-plugins/plugin-node": "github:elizaos-plugins/plugin-node",
     "@elizaos-plugins/plugin-nkn": "github:nknorg/eliza-plugin-nkn",
     "@elizaos-plugins/plugin-obsidian": "github:elizaos-plugins/plugin-obsidian",
+    "@elizaos-plugins/plugin-okto": "github:okto-hq/eliza-plugin",
     "@elizaos-plugins/plugin-okx": "github:elizaos-plugins/plugin-okx",    
     "@elizaos-plugins/plugin-omniflix": "github:elizaos-plugins/plugin-omniflix",
     "@elizaos-plugins/plugin-opacity": "github:elizaos-plugins/plugin-opacity",
