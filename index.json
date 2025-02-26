@@ -89,6 +89,7 @@
     "@elizaos-plugins/plugin-story": "github:elizaos-plugins/plugin-story",
     "@elizaos-plugins/plugin-sui": "github:elizaos-plugins/plugin-sui",
     "@elizaos-plugins/plugin-tee": "github:elizaos-plugins/plugin-tee",
+    "@elizaos-plugins/plugin-dcap": "github:elizaos-plugins/plugin-dcap",
     "@elizaos-plugins/plugin-tee-log": "github:elizaos-plugins/plugin-tee-log",
     "@elizaos-plugins/plugin-tee-marlin": "github:elizaos-plugins/plugin-tee-marlin",
     "@elizaos-plugins/plugin-thirdweb": "github:elizaos-plugins/plugin-thirdweb",
